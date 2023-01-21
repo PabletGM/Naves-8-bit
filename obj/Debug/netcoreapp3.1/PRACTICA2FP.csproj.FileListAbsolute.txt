@@ -1,0 +1,26 @@
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.csprojAssemblyReference.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.AssemblyInfoInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.AssemblyInfo.cs
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.csproj.CoreCompileInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.exe
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.deps.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.runtimeconfig.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.runtimeconfig.dev.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.genruntimeconfig.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.exe
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.deps.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.runtimeconfig.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.runtimeconfig.dev.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\bin\Debug\netcoreapp3.1\PRACTICA2FP.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.csprojAssemblyReference.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.AssemblyInfoInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.AssemblyInfo.cs
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.csproj.CoreCompileInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Primer cuatrimestre\programación C#\por mi cuenta\PRACTICA2(2o AÑO\PRACTICA2FP\obj\Debug\netcoreapp3.1\PRACTICA2FP.genruntimeconfig.cache
